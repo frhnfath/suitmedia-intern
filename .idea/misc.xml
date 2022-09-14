@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/LENOVO/Documents/latihan/android/SuitMedia/app/src/main/res/drawable/custom_button.xml" value="0.2645" />
+        <entry key="..\:/Users/LENOVO/Documents/latihan/android/SuitMedia/app/src/main/res/drawable/custom_edt.xml" value="0.2645" />
+        <entry key="..\:/Users/LENOVO/Documents/latihan/android/SuitMedia/app/src/main/res/font-v26/poppins.xml" value="0.39114583333333336" />
+        <entry key="..\:/Users/LENOVO/Documents/latihan/android/SuitMedia/app/src/main/res/font/poppins.xml" value="0.32008547008547006" />
+        <entry key="..\:/Users/LENOVO/Documents/latihan/android/SuitMedia/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/Documents/latihan/android/SuitMedia/app/src/main/res/layout/activity_second.xml" value="0.3609375" />
+        <entry key="..\:/Users/LENOVO/Documents/latihan/android/SuitMedia/app/src/main/res/layout/activity_third.xml" value="0.18" />
+        <entry key="..\:/Users/LENOVO/Documents/latihan/android/SuitMedia/app/src/main/res/layout/user_item.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_13" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

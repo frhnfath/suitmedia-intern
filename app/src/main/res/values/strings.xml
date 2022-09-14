@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SuitMedia</string>
+    <string name="welcome">Welcome</string>
+    <string name="name">Name</string>
+    <string name="choose_a_user">Choose a User</string>
+    <string name="selected_user_name">Selected User Name</string>
+    <string name="_1">1</string>
+</resources>
